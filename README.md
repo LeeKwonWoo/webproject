@@ -6,3 +6,5 @@ postgresql-13.12-1
 pip install django
 
 pip install psycopg2
+
+python 3.11
